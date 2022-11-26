@@ -1,4 +1,4 @@
-# bot-whatsapp
+# Bot Whatsapp
 Bot Whatsapp
 
 ## Available Scripts
