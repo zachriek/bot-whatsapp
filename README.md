@@ -1,6 +1,8 @@
 # bot-whatsapp
 Bot Whatsapp
 
-## Guides
-npm install
-npm start
+## Available Scripts
+In the project directory, you can run:
+
+#### `npm install`
+#### `npm start` for production
